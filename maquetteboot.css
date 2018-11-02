@@ -1,0 +1,193 @@
+/* HEADER*/ 
+
+
+.navbar navbar-expand-lg navbar-light
+
+{
+    color: #ffffff
+}
+/* FIN HEADER */ 
+
+
+body 
+{
+position: relative;
+min-width: 0; 
+
+}
+
+
+/* SECTION UNE*/
+ 
+.container-fluid
+{
+    background-image: url("world.jpg");
+    min-width: 0;
+    justify-content: center;
+    text-align: center; 
+    color: white;
+    font-family: 'Merriweather', light;
+    height: 708px;
+}
+
+h2
+{
+    font-size: 40px; 
+}
+.h3
+
+{
+    font-size: 25px; 
+}
+.p {
+    font-size: 14px; 
+}
+
+
+/* FIN SECTION UNE*/
+
+
+/* SECTION DEUX */ 
+
+#monsieur
+{
+    background-color: #edf4f8; 
+    min-width: 0;
+
+}
+.monsieur container
+{
+min-width: 0;
+background-color: #edf4f8; 
+}
+
+.col-7 monsieur container 
+ {
+text-align: left;
+padding-left:40px;
+ 
+ }
+
+/* FINS SECTION DEUX*/ 
+
+
+/* DEBUT SECTION TROIS*/ 
+
+.raison container
+{
+min-width: 0;
+background-color: #ffffff; 
+}
+
+/* FIN SECTION TROIS*/ 
+
+/* DEBUT SECTION QUATRE*/
+
+#oxford
+{
+    background-color: #edf4f8; 
+    padding: 40px;
+    min-width: 0; 
+}
+
+.oxford container
+{
+min-width: 0;
+background-color: #edf4f8; 
+}
+
+.col-7 oxford container 
+ {
+    justify-content: right
+
+ }
+
+/* FIN SECTION QUATRE*/
+
+
+
+/* DEBUT SECTION CINQ*/
+#newsletter 
+{
+    min-width: 0;
+    background-color: #003c5a;
+    justify-content: center;
+    text-align: center; 
+    color: #ffffff;
+    padding: 40px;
+
+} 
+
+.newsletter container
+{  
+    min-width: 0;
+    justify-content: center;
+}
+
+.form-inline newsletter 
+
+{
+    justify-content: center;
+}
+
+/* FIN SECTION CINQ*/
+
+
+
+/* DEBUT SECTION SIX*/
+
+#carousel
+{
+    min-width: 0;
+    background-color:#e76e33;
+    justify-content: center;
+    text-align: center; 
+    color: #ffffff;
+    padding: 40px;
+    image-orientation: center; 
+
+}
+
+.carousel container 
+
+{ 
+
+justify-content: center; 
+
+}
+.carousel-inner
+{   
+
+justify-content: center;
+
+}
+.carousel-indicators li
+
+{
+min-width: 0;
+border-radius: 50 px;
+width: 10px;
+height: 10px; 
+}
+/* FIN SECTION SIX*/
+
+
+/* DEBUT FOOTER*/
+
+#footer
+{
+
+background-color: #272727;
+
+}
+
+.footer container
+
+{
+    background-color: #272727;
+    padding: 40px; 
+    text-align: center;
+}
+
+
+/* FIN FOOTER */ 
